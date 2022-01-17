@@ -34,7 +34,7 @@
 ![alt text](https://github.com/adi3120/Crud-App-using-Django/blob/master/githubimages/4.png)
 ***
 
-## 5) Update Item/Blog Page
+## 5) Delete Item/Blog Page
 ![alt text](https://github.com/adi3120/Crud-App-using-Django/blob/master/githubimages/5.png)
 ***
 
